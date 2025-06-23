@@ -8,6 +8,7 @@ Everscale/Venom node and validator with tools
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [Everscale/Venom Node Usage](#Everscale-Venom-Node-Usage)
 - [License](#license)
 
 ## About
